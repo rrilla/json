@@ -1,0 +1,23 @@
+{
+      "country": "경주가 열리는 국가",
+      "course": "경주 코스 이름",
+      "race_time": "경주 시작 시간 (YYYY-MM-DD HH:MM:SS 형식)",
+      "horse_list": [
+          {
+              "horse_name": "말의 이름",
+              "horse_status": "말의 상태",
+              "horse_age_years": "말의 나이 (년)",
+              "horse_weight_units": "말의 무게 단위",
+              "horse_weight_value": "말의 무게",
+              "horse_forecast_price_denominator": "예상 배당률의 분모",
+              "horse_forecast_price_numerator": "예상 배당률의 분자",
+              "horse_cloth_number": "말의 옷 번호",
+              "horse_drawn_stall": "출발 게이트 번호",
+              "horse_jockey_name": "기수 이름",
+              "horse_jockey_colours_filename": "기수 복장 색상 파일명",
+              "win_dividend" : "win 배당률",
+              "place_dividend" : "place 배당률",
+              "show_dividend" : "show 배당률"
+          }
+      ]
+}
